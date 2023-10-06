@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Coraline\'s Cat';
+    src: url(../fontes/CoralinesCat.woff);
+}
+
+body{
+    background-color:black;
+}
+
+h1{
+    font-family: 'Coraline\'s Cat';
+    font-weight: normal;
+    font-style: normal;
+    text-align: center;
+    margin-top: 30px;
+}
