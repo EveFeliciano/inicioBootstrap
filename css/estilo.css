@@ -7,10 +7,32 @@ body{
     background-color:black;
 }
 
+.eve{
+    background-color: midnightblue;
+}
+
 h1{
     font-family: 'Coraline\'s Cat';
     font-weight: normal;
     font-style: normal;
     text-align: center;
     margin-top: 30px;
+    color: white;
+}
+h2{
+    font-family: 'Coraline\'s Cat';
+    font-weight: normal;
+    font-size: 150%;
+    font-style: normal;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    color: white;  
+}
+p{
+    margin-top: 30px;
+    color: aliceblue;
+}
+.corcard{
+    background-color: black;
 }
