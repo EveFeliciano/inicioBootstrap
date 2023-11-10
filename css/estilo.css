@@ -39,10 +39,26 @@ h3{
     text-align: center;
     margin-top: 30px;
     margin-bottom: 30px;
-    color: white;  
+    color: white;
+    padding: 40px;
     
+}
+h5{
+    font-family: 'Coraline\'s Cat';
+    font-weight: normal;
+    font-size: 80%;
+    font-style: normal;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color: black;
+    padding: 40px; 
 }
 p{
     margin-top: 30px;
     color: aliceblue;
+    padding: 50px;
+}
+img-icon{
+    margin-left: 300px;
 }
